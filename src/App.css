@@ -1,0 +1,42 @@
+:root {
+  --primary1-logo-color: #000000;
+  --primary2-logo-color: #ffbb00;
+  --primary-text-color: #263238;
+  --secondary-text-color: #65624c;
+}
+
+body {
+  background-color: #f9faff;
+}
+
+.heading-1 {
+  font-weight: 700;
+  font-size: 58px;
+  line-height: 61.6px;
+}
+
+.heading-2 {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 52.8px;
+}
+
+.heading-4 {
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 35.2px;
+}
+
+.heading-5 {
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 24.6px;
+}
+
+.text-primary {
+  color: var(--primary-text-color);
+}
+
+.text-secondary {
+  color: var(--secondary-text-color);
+}
